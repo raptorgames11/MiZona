@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "MiZona",
+    "slug": "mizona",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["android"],
+    "android": {
+      "package": "com.raptorgames.mizona",
+      "versionCode": 1
+    }
+  }
+}
