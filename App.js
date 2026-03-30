@@ -221,9 +221,9 @@ const s = StyleSheet.create({
   tiendaDist: { fontSize: 12, color: '#888', marginTop: 2 },
   waBtn: { backgroundColor: '#1D9E75', borderRadius: 6, paddingHorizontal: 10, paddingVertical: 6 },
   waBtnTexto: { color: 'white', fontSize: 12, fontWeight: '500' },
-  navbar: { flexDirection: 'row', backgroundColor: 'white', borderTopWidth: 0.5, borderTopColor: '#e0e0e0', paddingVertical: 8 },
+  navbar: { flexDirection: 'row', backgroundColor: 'white', borderTopWidth: 0.5, borderTopColor: '#e0e0e0', paddingVertical: 12, paddingBotton: 16 },
   navItem: { flex: 1, alignItems: 'center' },
-  navIcon: { fontSize: 16 },
-  navLabel: { fontSize: 9, color: '#888', marginTop: 2 },
+  navIcon: { fontSize: 24 },
+  navLabel: { fontSize: 11, color: '#888', marginTop: 2 },
   navActivo: { color: '#1D9E75', fontWeight: '500' },
 });
