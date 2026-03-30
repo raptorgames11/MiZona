@@ -7,17 +7,14 @@
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
-
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-
     "ios": {
       "supportsTablet": true
     },
-
     "android": {
       "package": "com.miempresa.miapp",
       "versionCode": 1,
@@ -27,11 +24,14 @@
       },
       "edgeToEdgeEnabled": true
     },
-
     "web": {
       "favicon": "./assets/favicon.png"
     },
-
-    "description": "esfuerzo"
+    "description": "esfuerzo",
+    "extra": {
+      "eas": {
+        "projectId": "8dffbccc-90eb-418b-9e51-95d20ab6644d"
+      }
+    }
   }
 }
