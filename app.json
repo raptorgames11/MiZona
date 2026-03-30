@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "aplicacion-tiendas",
-    "slug": "mi-app",
+    "slug": "aplicacion-de-tiendas",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
